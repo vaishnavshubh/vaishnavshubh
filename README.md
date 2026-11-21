@@ -24,7 +24,7 @@ I recently wrapped up my **MS in Business Analytics & Information Management at 
 
 ### 🚀 Highlight Reel (For Busy Recruiters)
 
-* ⚾ **5M+ Rows of Sports Telemetry:** Built a GCP ELT pipeline and Python Shiny dashboard for Purdue Softball (Trackman, Rapsodo, HitTrax).
+* ⚾ **5M+ Rows of Sports Telemetry:** Built a GCP ELT pipeline and Python dashboard for Purdue Softball (Trackman, Rapsodo, HitTrax).
 * 📄 **5,000+ Financial PDFs:** Engineered an Azure Medallion lakehouse + LangGraph RAG system for the Purdue Research Foundation Office of Investments.
 * 🏗️ **15% Fewer Project Delays:** Delivered a real-time Power BI monitoring suite and predictive delay model for a construction firm at Alliant Infotech.
 * 🏆 **Top 6% Finish (3rd / 53 Teams):** Built an XGBoost bankruptcy risk scoring model hitting a `0.907` mean AUC.
