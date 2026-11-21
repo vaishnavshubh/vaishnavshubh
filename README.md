@@ -22,7 +22,7 @@ I recently wrapped up my **MS in Business Analytics & Information Management at 
 
 ---
 
-### 🚀 Highlight Reel (For Busy Recruiters)
+### 🚀 Highlight Reel
 
 * ⚾ **5M+ Rows of Sports Telemetry:** Built a GCP ELT pipeline and Python dashboard for Purdue Softball (Trackman, Rapsodo, HitTrax).
 * 📄 **5,000+ Financial PDFs:** Engineered an Azure Medallion lakehouse + LangGraph RAG system for the Purdue Research Foundation Office of Investments.
